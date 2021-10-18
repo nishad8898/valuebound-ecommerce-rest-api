@@ -1,0 +1,102 @@
+productData = [
+  {
+    "name": "poco x3 pro",
+    "thumbnail": "thumbnail url",
+    "productGallery": "poco gallery url",
+    "description": "nice phone",
+    "basePrice": 23000,
+    "sellPrice": 18999,
+    "category": "phone",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "redmi note 3",
+    "thumbnail": "thumbnail url",
+    "productGallery": "redmi gallery url",
+    "description": "nice phone",
+    "basePrice": 13999,
+    "sellPrice": 11999,
+    "category": "phone",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "acer predator",
+    "thumbnail": "thumbnail url",
+    "productGallery": "acer gallery url",
+    "description": "nice laptop",
+    "basePrice": 79999,
+    "sellPrice": 69999,
+    "category": "laptop",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "redmi note 5",
+    "thumbnail": "thumbnail url",
+    "productGallery": "redmi gallery url",
+    "description": "nice phone",
+    "basePrice": 11999,
+    "sellPrice": 10999,
+    "category": "phone",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "redmi note 5 pro",
+    "thumbnail": "thumbnail url",
+    "productGallery": "redmi gallery url",
+    "description": "nice phone",
+    "basePrice": 15999,
+    "sellPrice": 14999,
+    "category": "phone",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "oneplus 8t",
+    "thumbnail": "thumbnail url",
+    "productGallery": "oneplus gallery url",
+    "description": "nice phone",
+    "basePrice": 34999,
+    "sellPrice": 30999,
+    "category": "phone",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "hp omen",
+    "thumbnail": "thumbnail url",
+    "productGallery": "hp gallery url",
+    "description": "nice laptop",
+    "basePrice": 69999,
+    "sellPrice": 65999,
+    "category": "laptop",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "mi tv",
+    "thumbnail": "thumbnail url",
+    "productGallery": "mi gallery url",
+    "description": "nice tv",
+    "basePrice": 14999,
+    "sellPrice": 12999,
+    "category": "tv",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "oneplus tv",
+    "thumbnail": "thumbnail url",
+    "productGallery": "oneplus gallery url",
+    "description": "nice tv",
+    "basePrice": 15999,
+    "sellPrice": 12999,
+    "category": "tv",
+    "additionalInfo": "nothing"
+  },
+  {
+    "name": "realme tv",
+    "thumbnail": "thumbnail url",
+    "productGallery": "realme gallery url",
+    "description": "nice tv",
+    "basePrice": 13999,
+    "sellPrice": 12999,
+    "category": "tv",
+    "additionalInfo": "nothing"
+  }
+]
