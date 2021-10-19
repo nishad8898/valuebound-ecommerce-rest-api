@@ -10,7 +10,7 @@ exports.getAllProducts = catchAsync(async (req, res, next) => {
     products = await Product.find(req.query);
     res.status(200).json({
       status: 'success',
-      result: products.length,
+      results: products.length,
       data: {
         products,
       },
@@ -19,7 +19,7 @@ exports.getAllProducts = catchAsync(async (req, res, next) => {
     products = await Product.find(req.query);
     res.status(200).json({
       status: 'success',
-      result: products.length,
+      results: products.length,
       data: {
         products,
       },

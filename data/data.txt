@@ -100,3 +100,13 @@ productData = [
     "additionalInfo": "nothing"
   }
 ]
+
+user = [
+  {
+    "firstName": "sachin",
+    "lastName": "nishad",
+    "email": "xyz@mail.com",
+    "password": "12345",
+    "passwordConfirm": "12345"
+  }
+]
